@@ -1,0 +1,13 @@
+body {
+  background-color: mistyrose;
+}
+
+header {
+  background-color: pink;
+}
+
+#headshot {
+  max-width: 420px;
+  width: 100%;
+  object-fit: cover;
+}
